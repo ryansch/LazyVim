@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.13.1](https://github.com/LazyVim/LazyVim/compare/v2.13.0...v2.13.1) (2023-05-08)
+
+
+### Bug Fixes
+
+* **icons:** updated a dap icon ([6ebf3ab](https://github.com/LazyVim/LazyVim/commit/6ebf3ab084361b47796840fb6f7fe00cd05dfeb4))
+
 ## [2.13.0](https://github.com/LazyVim/LazyVim/compare/v2.12.1...v2.13.0) (2023-05-04)
 
 
